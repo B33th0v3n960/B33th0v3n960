@@ -33,7 +33,7 @@
 ---
 ![stats](https://github-readme-stats.vercel.app/api?username=B33th0v3n960&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=B33th0v3n960&theme=tokyonight)
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=B33th0v3n960&theme=tokyonight) -->
 
 
 
@@ -60,18 +60,3 @@
 
 </details>
 
-<!--
-**B33th0v3n960/B33th0v3n960** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
