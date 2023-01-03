@@ -14,7 +14,7 @@
   </a>
 </p>
 
-📖 A student studying the art of front-end development. 
+📖 A student studying the art of frontend development. 
 ---
 ### 🧰 Languages and Tools
 
@@ -32,7 +32,33 @@
 
 ---
 ![stats](https://github-readme-stats.vercel.app/api?username=B33th0v3n960&show_icons=true&theme=tokyonight)
-[![GitHub Streak](https://streak-stats.demolab.com?user=B33th0v3n960&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=B33th0v3n960&theme=tokyonight)
+
+
+
+<details>
+  <summary>My Projects</summary>
+  
+  ### Frontend Mentor 
+  - [NFT Preview Card](https://github.com/B33th0v3n960/nft-card)
+  - [Rating Component Card](https://github.com/B33th0v3n960/rating-component)
+  - [QR-code Card](https://github.com/B33th0v3n960/frontend-mentor-qrcode)
+
+  ### School Work Experience
+  - [Admin Dashboard Site](https://github.com/B33th0v3n960/dashboard)
+
+</details>
+
+<details>
+  <summary>My Dotfiles</summary>
+
+
+  [Dotfiles](https://github.com/B33th0v3n960/-.dotfiles) - My own dotfiles used for my linux desktop (Working in Progress)
+
+  [Neovim](https://github.com/B33th0v3n960/nvim) - My Neovim Configuration
+
+</details>
 
 <!--
 **B33th0v3n960/B33th0v3n960** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
