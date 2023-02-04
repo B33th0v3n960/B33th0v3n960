@@ -31,32 +31,14 @@
 <br />
 
 ---
-![stats](https://github-readme-stats.vercel.app/api?username=B33th0v3n960&show_icons=true&theme=tokyonight)
+![stats](https://github-readme-stats.vercel.app/api?username=B33th0v3n960&show_icons=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)
 
+<!-- ![stats](https://github-readme-stats.vercel.app/api?username=B33th0v3n960&show_icons=true&theme=tokyonight) -->
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=B33th0v3n960&theme=tokyonight) -->
 
-
-
-<details>
-  <summary>My Projects</summary>
   
-  ### Frontend Mentor 
-  - [NFT Preview Card](https://github.com/B33th0v3n960/nft-card)
-  - [Rating Component Card](https://github.com/B33th0v3n960/rating-component)
-  - [QR-code Card](https://github.com/B33th0v3n960/frontend-mentor-qrcode)
+  ### My dotfiles
 
-  ### School Work Experience
-  - [Admin Dashboard Site](https://github.com/B33th0v3n960/dashboard)
-
-</details>
-
-<details>
-  <summary>My Dotfiles</summary>
-
-
-  [Dotfiles](https://github.com/B33th0v3n960/-.dotfiles) - My own dotfiles used for my linux desktop (Working in Progress)
-
-  [Neovim](https://github.com/B33th0v3n960/nvim) - My Neovim Configuration
-
-</details>
+  [![](https://github-readme-stats.vercel.app/api/pin/?username=B33th0v3n960&repo=dotfile&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/B33th0v3n960/dotfile)
+  [![](https://github-readme-stats.vercel.app/api/pin/?username=B33th0v3n960&repo=nvim&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/B33th0v3n960/nvim)
 
