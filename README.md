@@ -14,7 +14,7 @@
   </a>
 </p>
 
-## 📖 A student studying the art of frontend development.
+## 📖 A student studying the art of frontend development
 
 ### 🧰 Languages and Tools
 
@@ -39,5 +39,5 @@
 
 ### My dotfiles
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=B33th0v3n960&repo=dotfile&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/B33th0v3n960/dotfile)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=B33th0v3n960&repo=nvim&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/B33th0v3n960/nvim)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=B33th0v3n960&repo=dotfile&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&PAT_1=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)](https://github.com/B33th0v3n960/dotfile)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=B33th0v3n960&repo=nvim&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&PAT_1=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)](https://github.com/B33th0v3n960/nvim)
