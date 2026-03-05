@@ -17,8 +17,13 @@
 ## 📖 About Me
 Hi, I am B33th0v3n960.
 
+## 📚 Currently Learning 
+- [ ] Java Swing
+- [ ] C Programming Language (and some C++)
+- [ ] HTTPS Basics
+
 ## 📏 Current projects
 I am currently working on:
 - [ ] Physics Engine
 - [ ] Maze Generator and Solver
-- [ ] Pseudo-random Number Generator
+- [ ] Encryption Ciphers
